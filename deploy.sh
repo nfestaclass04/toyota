@@ -1,0 +1,9 @@
+#!/bin/bash
+echo 'All apps ready for deployment'
+sleep 5
+echo 'starting deployment'
+sleep 5
+echo 'deployment in progress'
+sleep 10
+echo 'deployment completed successfully'
+date
