@@ -6,4 +6,5 @@ sleep 5
 echo 'deployment in progress'
 sleep 10
 echo 'deployment completed successfully'
+echo 'please, validate all sites and confirm'
 date
