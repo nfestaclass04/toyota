@@ -4,3 +4,4 @@
 # add or update when need be
 # also make sure to bush back the code to scm
 # check each before making a commit
+#cheking alias creation
