@@ -10,3 +10,4 @@ echo 'please, validate all sites and confirm'
 sleep 5
 echo 'sanity checks look good'
 date
+looks like everything went successfully
