@@ -12,3 +12,4 @@ echo 'sanity checks look good'
 date
 looks like everything went successfully
 checking the use of .gitignore file
+completed checking the use of .gitignore
