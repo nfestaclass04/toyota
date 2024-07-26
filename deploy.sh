@@ -15,3 +15,4 @@ checking the use of .gitignore file
 completed checking the use of .gitignore
 concluding on files being modified
 checking the difference btw git pull and git fetch
+confirming the diff btw git pull and git fetch
