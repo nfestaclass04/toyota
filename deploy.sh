@@ -14,3 +14,4 @@ looks like everything went successfully
 checking the use of .gitignore file
 completed checking the use of .gitignore
 concluding on files being modified
+checking the difference btw git pull and git fetch
