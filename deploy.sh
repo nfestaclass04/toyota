@@ -11,3 +11,4 @@ sleep 5
 echo 'sanity checks look good'
 date
 looks like everything went successfully
+checking the use of .gitignore file
