@@ -21,3 +21,4 @@ Deploying for the first time
 waiting for our next qa signoff dev testing
 adding a file in the dpmt code
 checking without committing
+checking ssh access to github
