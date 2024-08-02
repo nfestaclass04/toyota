@@ -28,3 +28,4 @@ echo 'updating code to create our second tag'
 # Team, please, ensure to create the new app release after creating the tag.
 echo 'the tag is now ready'
 echo 'please, go ahead and create a release'
+checking the status of a deleted tag from localrepo
