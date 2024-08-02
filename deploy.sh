@@ -22,3 +22,5 @@ waiting for our next qa signoff dev testing
 adding a file in the dpmt code
 checking without committing
 checking ssh access to github
+echo 'we are currently change our local dir'
+echo 'For some unknow reasons our gitserver is not accessable'
