@@ -24,3 +24,7 @@ checking without committing
 checking ssh access to github
 echo 'we are currently change our local dir'
 echo 'For some unknow reasons our gitserver is not accessable'
+echo 'updating code to create our second tag'
+# Team, please, ensure to create the new app release after creating the tag.
+echo 'the tag is now ready'
+echo 'please, go ahead and create a release'
