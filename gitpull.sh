@@ -3,4 +3,4 @@ echo 'explaining the difference btw gitfetch and git pull'
 sleep 5
 echo 'this looks all good'
 date
-please, check code and execute
+echo 'please, check code and execute'
