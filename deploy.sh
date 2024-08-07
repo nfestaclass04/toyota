@@ -29,3 +29,4 @@ echo 'updating code to create our second tag'
 echo 'the tag is now ready'
 echo 'please, go ahead and create a release'
 checking the status of a deleted tag from localrepo
+checking with my IDE
